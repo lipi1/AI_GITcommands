@@ -1,1 +1,1 @@
-ThiS contains GIT commands for beginner level 
+This contains GIT commands for beginner level 
