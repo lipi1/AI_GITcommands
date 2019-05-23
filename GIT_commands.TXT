@@ -1,11 +1,16 @@
 git init - to create a git repository
 git config --global user.name 'lipi1'
 git config --global user.email 'emailaddress'
---stage a file // git add filename.extension
+--------------stage a file // git add filename.extension
 git status - to check wheather the file is commited or not
 git rm --cahed filename.extension
 git add *.extension - it will add any file with the extension mentioned
 git add . ---- to add eveything
+---------------commit a file // git commit 
+press i to insert in the new editor to start typing
+remove number sign # in front of INITIAL COMMIT
+press esc and type :wq
+
 
 
 
