@@ -35,6 +35,16 @@ git checkout master
 ----- merge your branch in master branch
 git merge branchname // branch get merged into master branch
 ---------------------------------------move to the remote repository
+create a new repo
+in gitbash// git remote-----nothing will come up
+paste the remote syntax from remote repo
+paste the remote push syntax --- here it will ask for login id paasword
+------in GITHUB remote repo --- refresh it
+now add README to allow everyone to read your code
+--- touch README.md
+git add .
+git commit -m 'added README'
+
 
 
 
