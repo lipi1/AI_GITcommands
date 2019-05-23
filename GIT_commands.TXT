@@ -10,6 +10,35 @@ git add . ---- to add eveything
 press i to insert in the new editor to start typing
 remove number sign # in front of INITIAL COMMIT
 press esc and type :wq
+-----------now again change the file and commit it by
+git add .
+git commit -m 'changed file.extension'
+clear---- to clear everything
+------------ if we dont want not to add a file on using git add . command , we can write that file in .gitignore 
+touch .gitignore --- to create a new file 
+toch .log.txt
+mention log.txt in .gitignore and git status , we will not see log.txt to commit on git status
+---to do another commit
+git add .
+git commit -m 'another change'
+----------to create a branch 
+git branch branchname
+----to switch branch
+git checkout branchname
+----create a file
+touch filename.extension
+edit file then
+git add .
+git commit -m 'filename extension'
+---- go to masterbranch and your merging branch will go off
+git checkout master
+----- merge your branch in master branch
+git merge branchname // branch get merged into master branch
+---------------------------------------move to the remote repository
+
+
+
+
 
 
 
