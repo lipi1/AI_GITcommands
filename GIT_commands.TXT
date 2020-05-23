@@ -5,7 +5,7 @@ git config --global user.email 'emailaddress'
 git status - to check wheather the file is commited or not
 git rm --cahed filename.extension
 git add *.extension - it will add any file with the extension mentioned
-git add . ---- to add eveything
+git add * ---- to add eveything
 ---------------commit a file // git commit 
 press i to insert in the new editor to start typing
 remove number sign # in front of INITIAL COMMIT
